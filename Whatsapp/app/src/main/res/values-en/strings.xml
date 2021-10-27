@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tab1">CHATS</string>
+    <string name="tab2">ESTADOS</string>
+    <string name="tab3">LLAMADAS</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="tab1">CHATS</string>
+    <string name="tab2">ESTADOS</string>
+    <string name="tab3">LLAMADAS</string>
+</resources>
